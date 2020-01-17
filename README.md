@@ -3,6 +3,17 @@ A funny little project interpreting brain tease (brainf*ck) language in LabVIEW.
 
 https://www.wikiwand.com/en/Brainfuck
 
+# LabVIEW Implementation
+
+This LabVIEW implementation is in no way intended as fast or efficient. It purpuse is to visualize some development practices and having fun.
+
+![](Images/3.png)
+
+![](Images/1.png)
+
+![](Images/2.png)
+
+
 # Example of Brainf**k code
 
 ```
